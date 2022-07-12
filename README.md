@@ -1,4 +1,4 @@
-This is the landing page project for The Odin Project. Trying to mimic the example that's providied in the assignment.
+This is the landing page project for The Odin Project. Trying to mimic the example that's provided in the assignment.
 
 Demonstrated skills:
 * HTML
