@@ -91,6 +91,7 @@ a {
     justify-content: center;
     margin-bottom: 50px;
     gap: 15px;
+    flex-wrap: wrap;
 }
 
 .item {
