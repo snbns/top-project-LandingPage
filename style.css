@@ -70,3 +70,63 @@ a {
     align-items: center;
     justify-content: center;
 }
+
+.second .title {
+    font-size: 36px;
+    font-weight: bolder;
+    text-align: center;
+    padding: 25px;
+}
+
+.square {
+    border: 3px solid #3882f6;
+    height: 120px;
+    width: 120px;
+    border-radius: 8px;
+    margin: 5px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    gap: 15px;
+}
+
+.item {
+    max-width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.item .text {
+    color: grey;
+    font-size: 18px;
+}
+
+.third {
+    background-color: #E5E7EB;
+    padding: 80px 500px;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.quotee {
+    font-weight: bolder;
+    text-align: end;
+    margin-top: 5px;
+}
+
+.fourth {
+    margin: 80px 200px;
+    padding: 30px 70px;
+    background-color: #3882f6;
+}
